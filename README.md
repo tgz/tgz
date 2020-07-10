@@ -13,6 +13,6 @@
 
 ## RecomendReading
 
-{% btn https://www.notion.so/qsc/b57cc9293b7745daa9397c69ee607347?v=8c191a88e9e34591841537eb44e11d4d, Notion List%}
+[Notion List](https://www.notion.so/qsc/b57cc9293b7745daa9397c69ee607347?v=8c191a88e9e34591841537eb44e11d4d)
 
-{% btn https://t.me/s/knowledge_dock, Telegram Channel %}
+[Telegram Channel](https://t.me/s/knowledge_dock)
