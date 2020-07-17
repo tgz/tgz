@@ -1,14 +1,16 @@
 
-## Focus on
+## Hey there, I'm tgz 🥳
 
-* iOS platform develop, especially swift 📱
-* C++, embedded linux software develop, STM32 ⚙️
-* Convolutional neural network，Computer vision 🤯
-* OpenGL, AVFoundation, image & video process 🎞
-* Node.js Typescript Electron Vue 🛴
-* Web fullstack develop: frontend and backend 🖥
-* bash, python 🛠
-* Photoshop, Sketch，Pr, AE, Au etc. 📸
+Fullstack developer and focus on eveything with electronic.
+
+📱 iOS\macos developer, especially swift  
+⚙️ C++, embedded linux software develop, STM32  
+🤯 Convolutional neural network，Computer vision  
+🎞 OpenGL, AVFoundation, image & video process  
+🛴 Node.js Typescript Electron Vue  
+🖥 Web fullstack develop: frontend and backend  
+🛠 bash, python  
+📸 Photoshop, Sketch，Pr, AE, Au etc.  
 
 
 ## RecomendReading
