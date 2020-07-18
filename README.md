@@ -1,5 +1,5 @@
 
-## Hey there, I'm tgz 🥳
+## Hey there, I'm qsc 🥳
 
 Fullstack developer and focus on eveything with electronic 🧐.
 
