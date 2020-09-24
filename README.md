@@ -1,7 +1,7 @@
 
 ## Hey there, I'm qsc 🥳
 
-Fullstack developer and focus on eveything with electronic 🧐.
+Fullstack developer and focus on eveything with electricity 🧐.
 
 #### 📱 iOS\macos developer, especially swift  
 #### ⚙️ C++, embedded linux software develop, STM32  
